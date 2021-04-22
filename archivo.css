@@ -1,0 +1,85 @@
+#cabecera{
+    padding: 5px;
+    font-size: 30px;
+    margin:10 px;
+}
+#letra{
+    border-radius 10px;
+    background-color: lightblue;
+    margin-left: 350px;
+    margin-right:200px;
+    padding-left: 20px;
+    padding-right: 0px;
+    width: 650px;
+}
+#foto{
+    border: 2px;
+    margin-left: 471px;
+    margin-right:471px;
+    padding: 20px;
+    background: lightseagreen;
+}
+#dos{
+    font-size: 20px;
+    margin: auto;
+    background: lightgray;
+    border: 50px;
+    width: 600px;
+    position: relative; left:-350px;
+}
+#lista{
+    background: lightskyblue;
+    font-size: 20px;
+    border-radius: 30px;
+    position: relative;right:-50px;
+    width: 300px;
+}
+#titulo{ 
+    padding: 0px 50px 0px 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-bottom-left-radius: 10px;
+    width:150px;
+    background: lightgray;
+}
+#desarrollo{
+    padding-right: 100px;
+    padding-left: 20px;
+    width: 480px;
+    position: relative;right: -200px; top:-41px;
+    background: lightgray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+#bajada{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-right: 50px;
+    padding-left: 20px;
+    position: relative;right: -30px; top:-40px;
+    width: 1500px;
+    background: lightslategray;
+}
+#fam{
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+#imagen2{
+    padding: 20px;
+    background: grey;
+    width: 500px;
+
+}
+#datos{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-right: 10px;
+    padding-left: 10px;
+    position: relative;right: -30px;
+    width: 500px;
+    background: grey;
+
+}
+#ultimo{
+    padding: 5px 50px 5px 50px;
+    width: 200px;
+    background-color: mediumaquamarine;
+    border: 3px aquamarine;
+    position: relative;right: -100px
+}
