@@ -39,7 +39,7 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     border-bottom-left-radius: 10px;
     width:150px;
-    background: lightgray;
+    background: rgb(211, 211, 211);
 }
 #desarrollo{
     padding-right: 100px;
@@ -54,7 +54,7 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding-right: 50px;
     padding-left: 20px;
-    position: relative;right: -30px; top:-40px;
+    position: relative;right: -30px
     width: 1500px;
     background: lightslategray;
 }
